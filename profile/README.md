@@ -92,11 +92,12 @@
 
 <p data-importer="text" align="center"> <br>▸ 𝑨𝒗𝒂𝒍𝒊𝒆 𝒆 𝒅𝒆̂ 𝒔𝒆𝒖 𝒇𝒆𝒆𝒅𝒃𝒂𝒄𝒌, 𝒂𝒇𝒊𝒏𝒂𝒍 𝒆𝒔𝒕𝒂𝒎𝒐𝒔 𝒔𝒆𝒎𝒑𝒓𝒆 𝒅𝒊𝒔𝒑𝒐𝒔𝒕𝒐𝒔 𝒂 𝒆𝒔𝒄𝒖𝒕𝒂𝒓, 𝒎𝒆𝒍𝒉𝒐𝒓𝒂𝒓 𝒆 𝒄𝒐𝒎𝒑𝒂𝒓𝒕𝒊𝒍𝒉𝒂𝒓. •ᴗ• <br>
 
-<h5 data-importer="text" align="left">⤷ [ Em desenvolvimento.. mentira, é que esquecemos de criar mesmo 🤝 ]</h5>
 
 
 
 <img width="1378" height="678" alt="redes socias" src="https://github.com/user-attachments/assets/34f2a800-f65b-489a-98a7-244d12132619" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=003EFF&multiline=true&width=435&lines=%E1%AF%A4+Siga+os+Guris+da+TI+%E0%B4%A6%E0%B5%8D%E0%B4%A6%E0%B4%BF%28%E1%B5%94%E1%97%9C%E1%B5%94%29)](https://git.io/typing-svg)
+
+<h5 data-importer="text" align="left">⤷ [ Em desenvolvimento.. mentira, é que esquecemos de criar mesmo 🤝 ]</h5>
 
