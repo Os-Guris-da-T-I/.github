@@ -24,7 +24,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=003EFF&multiline=true&width=435&lines=%E1%AF%A4+Linguagens+%26+Sistemas+%F0%9F%97%81)](https://git.io/typing-svg)
 <h5 data-importer="text" align="left">⤷ Linguagens que mais utilizamos:</h5>
 
-┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 <div data-importer="techs" align="center">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="59" alt="javascript logo"  />
   <img width="34" />
