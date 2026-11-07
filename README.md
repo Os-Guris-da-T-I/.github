@@ -1,6 +1,6 @@
+<div align="center">
 
-
-<img src="./assets/banner.svg" width="100%" alt="Guris da T.I · Tecnologia, educação e criação de conteúdo"/>
+<img src="./assets/banner.svg" width="100%" alt="Guris da T.I · Tecnologia, educação e criação de conteúdo" />
 
 <img src="./assets/typing-main.svg" width="100%" alt="Opa bão? · Somos os Guris da T.I · Tecnologia, educação e criação de conteúdo · Co-fundadores do GennisCode · Ensinando T.I. de graça pro Brasil inteiro · Estudantes na Universidade Braz Cubas · Você nunca estará sozinho · Siga @guriz.mp4 no Instagram" />
 
@@ -237,3 +237,11 @@ Quer conhecer um pouquinho mais sobre a gente e nossas propostas?
 Nossa comunidade brasileira de T.I. vive no <b>Fluxer</b>: tire dúvidas, aprenda do zero e cresça junto com a gente.<br>
 Acompanhe também no Instagram: <b>@guriz.mp4</b>
 </p>
+
+<p align="center">
+<a href="https://www.instagram.com/guriz.mp4/"><img src="./assets/cta-instagram.svg" width="100%" alt="Siga @guriz.mp4 no Instagram" /></a>
+</p>
+
+<br>
+
+<img src="./assets/footer.svg" width="100%" alt="Aprenda. Construa. Compartilhe. © GurisDaTI Brazil Entertainment · All privacy and security rights reserved." />
