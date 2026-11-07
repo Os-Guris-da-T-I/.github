@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Guris da T.I · Tecnologia, educação e criação de conteúdo" />
+<img src="./assets/banner.svg" width="100%" alt="Guris da T.I · Tecnologia, educação e criação de conteúdo"/>
 
 <img src="./assets/typing-main.svg" width="100%" alt="Opa bão? · Somos os Guris da T.I · Tecnologia, educação e criação de conteúdo · Co-fundadores do GennisCode · Ensinando T.I. de graça pro Brasil inteiro · Estudantes na Universidade Braz Cubas · Você nunca estará sozinho · Siga @guriz.mp4 no Instagram" />
 
