@@ -146,7 +146,9 @@ Seja você educador, recrutador, estudante ou curioso, fique à vontade para exp
 
 <br>
 
-<sub>▸ Pretendemos expandir a equipe no futuro. Toda ajuda é bem-vinda, de perto ou de longe. •ᴗ•</sub>
+<sub></sub>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=BD3434&center=true&vCenter=true&multiline=true&width=435&lines=%E2%96%B8+Pretendemos+expandir+a+equipe+no+futuro+%E2%80%A2%E1%B4%97%E2%80%A2)](https://git.io/typing-svg)
 
 </div>
 
