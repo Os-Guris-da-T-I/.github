@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" width="1200" height="110">
+  <defs>
+    <filter id="r"><feTurbulence type="fractalNoise" baseFrequency="0.05" numOctaves="2" seed="11" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="7"/></filter>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff3b30"/><stop offset="1" stop-color="#a30000"/></linearGradient>
+  </defs>
+  <g filter="url(#r)">
+    <rect x="0" y="8" width="1200" height="22" fill="url(#g)"/>
+  </g>
+  <g stroke="url(#g)" stroke-linecap="round" fill="none">
+    <line x1="90"  y1="24" x2="90"  y2="60" stroke-width="10"><animate attributeName="y2" values="50;96;50" dur="4s" repeatCount="indefinite"/></line>
+    <line x1="230" y1="24" x2="230" y2="50" stroke-width="7"><animate attributeName="y2" values="44;80;44" dur="3.2s" repeatCount="indefinite"/></line>
+    <line x1="380" y1="24" x2="380" y2="66" stroke-width="12"><animate attributeName="y2" values="56;102;56" dur="4.8s" repeatCount="indefinite"/></line>
+    <line x1="540" y1="24" x2="540" y2="46" stroke-width="8"><animate attributeName="y2" values="40;74;40" dur="3s" repeatCount="indefinite"/></line>
+    <line x1="700" y1="24" x2="700" y2="62" stroke-width="11"><animate attributeName="y2" values="52;98;52" dur="4.4s" repeatCount="indefinite"/></line>
+    <line x1="850" y1="24" x2="850" y2="48" stroke-width="7"><animate attributeName="y2" values="42;78;42" dur="3.5s" repeatCount="indefinite"/></line>
+    <line x1="990" y1="24" x2="990" y2="64" stroke-width="12"><animate attributeName="y2" values="54;100;54" dur="5s" repeatCount="indefinite"/></line>
+    <line x1="1120" y1="24" x2="1120" y2="52" stroke-width="8"><animate attributeName="y2" values="46;84;46" dur="3.7s" repeatCount="indefinite"/></line>
+  </g>
+</svg>
