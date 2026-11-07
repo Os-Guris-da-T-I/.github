@@ -1,12 +1,12 @@
 <div align="center">
-
+  
+<img src="./assets/divider.svg" width="100%" alt="" />
+  
 <img src="./assets/banner.svg" width="100%" alt="Guris da T.I · Tecnologia, educação e criação de conteúdo" />
 
 <img src="./assets/typing-main.svg" width="100%" alt="Opa bão? · Somos os Guris da T.I · Tecnologia, educação e criação de conteúdo · Co-fundadores do GennisCode · Ensinando T.I. de graça pro Brasil inteiro · Estudantes na Universidade Braz Cubas · Você nunca estará sozinho · Siga @guriz.mp4 no Instagram" />
 
-<img src="./assets/gif-sakura.gif" width="100%" alt="Aprenda. Construa. Compartilhe. 学ぶ・創る・分かち合う" />
 
-<img src="./assets/banner-proverbios.svg" width="100%" alt="Provérbios japoneses: persistência é poder · caia sete vezes, levante oito · cada encontro é único" />
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -17,13 +17,12 @@
 <img src="./assets/header-sobre.svg" width="100%" alt="Sobre nós" />
 
 <p align="center">
-Somos os <b>Guris da T.I</b>: um coletivo de amigos universitários que une tecnologia, educação e criação de conteúdo.<br>
-Atuamos como <b>desenvolvedores, streamers, editores, designers e estudantes</b>, com anos de vivência na área de T.I e um objetivo em comum: contribuir de forma ativa para a evolução da tecnologia no Brasil.
+𝘚𝘰𝘮𝘰𝘴 𝘰𝘴 <b>Guris da T.I</b>: 𝘶𝘮 𝘨𝘳𝘶𝘱𝘰 𝘥𝘦 𝘢𝘮𝘪𝘨𝘰𝘴 𝘶𝘯𝘪𝘷𝘦𝘳𝘴𝘪𝘵𝘢́𝘳𝘪𝘰𝘴 𝘲𝘶𝘦 𝘶𝘯𝘦 𝘵𝘦𝘤𝘯𝘰𝘭𝘰𝘨𝘪𝘢, 𝘦𝘥𝘶𝘤𝘢𝘤̧𝘢̃𝘰 𝘦 𝘤𝘳𝘪𝘢𝘤̧𝘢̃𝘰 𝘥𝘦 𝘤𝘰𝘯𝘵𝘦𝘶́𝘥𝘰 𝘱𝘢𝘳𝘢 𝘢𝘫𝘶𝘥𝘢𝘳 𝘦 𝘵𝘳𝘢𝘻𝘦𝘳 𝘢𝘭𝘦𝘨𝘳𝘪𝘢 𝘦 𝘦𝘥𝘶𝘤𝘢𝘤̧𝘢̃𝘰 𝘱𝘢𝘳𝘢 𝘮𝘶𝘪𝘵𝘰𝘴 𝘣𝘳𝘢𝘴𝘪𝘭𝘦𝘪𝘳𝘰𝘴 𝘩𝘰𝘫𝘦.
+  
+<p align="center">
+<b> 𝘈𝘵𝘶𝘢𝘭𝘮𝘦𝘯𝘵𝘦, 𝘢𝘵𝘶𝘢𝘮𝘰𝘴 𝘦𝘮 𝘥𝘪𝘷𝘦𝘳𝘴𝘢𝘴 𝘢́𝘳𝘦𝘢𝘴 𝘥𝘢 𝘵𝘦𝘤𝘯𝘰𝘭𝘰𝘨𝘪𝘢 𝘦 𝘥𝘢 𝘤𝘳𝘪𝘢𝘵𝘪𝘷𝘪𝘥𝘢𝘥𝘦, 𝘤𝘰𝘮𝘰 𝘥𝘦𝘴𝘦𝘯𝘷𝘰𝘭𝘷𝘦𝘥𝘰𝘳𝘦𝘴, 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘢𝘥𝘰𝘳𝘦𝘴, 𝘴𝘵𝘳𝘦𝘢𝘮𝘦𝘳𝘴, 𝘦𝘥𝘪𝘵𝘰𝘳𝘦𝘴, 𝘥𝘦𝘴𝘪𝘨𝘯𝘦𝘳𝘴 𝘦 𝘢𝘳𝘵𝘪𝘴𝘵𝘢𝘴 𝘥𝘪𝘨𝘪𝘵𝘢𝘪𝘴. 𝘔𝘢𝘴, 𝘢𝘤𝘪𝘮𝘢 𝘥𝘦 𝘲𝘶𝘢𝘭𝘲𝘶𝘦𝘳 𝘵𝘪́𝘵𝘶𝘭𝘰 𝘰𝘶 𝘱𝘳𝘰𝘧𝘪𝘴𝘴𝘢̃𝘰, 𝘴𝘰𝘮𝘰𝘴 𝘦𝘴𝘵𝘶𝘥𝘢𝘯𝘵𝘦𝘴, 𝘦 𝘵𝘦𝘮𝘰𝘴 𝘮𝘶𝘪𝘵𝘰 𝘰𝘳𝘨𝘶𝘭𝘩𝘰 𝘥𝘪𝘴𝘴𝘰. 𝘕𝘰𝘴𝘴𝘢 𝘵𝘳𝘢𝘫𝘦𝘵𝘰́𝘳𝘪𝘢 𝘯𝘢𝘴𝘤𝘦𝘶 𝘥𝘦 𝘶𝘮𝘢 𝘱𝘢𝘪𝘹𝘢̃𝘰 𝘦𝘮 𝘤𝘰𝘮𝘶𝘮 𝘱𝘦𝘭𝘢 𝘵𝘦𝘤𝘯𝘰𝘭𝘰𝘨𝘪𝘢, 𝘲𝘶𝘦, 𝘤𝘰𝘮 𝘰 𝘱𝘢𝘴𝘴𝘢𝘳 𝘥𝘰 𝘵𝘦𝘮𝘱𝘰, 𝘴𝘦 𝘵𝘳𝘢𝘯𝘴𝘧𝘰𝘳𝘮𝘰𝘶 𝘦𝘮 𝘶𝘮 𝘤𝘰𝘮𝘱𝘳𝘰𝘮𝘪𝘴𝘴𝘰 𝘢𝘪𝘯𝘥𝘢 𝘮𝘢𝘪𝘰𝘳 𝘤𝘰𝘮 𝘰 𝘦𝘯𝘴𝘪𝘯𝘰, 𝘢 𝘤𝘰𝘭𝘢𝘣𝘰𝘳𝘢𝘤̧𝘢̃𝘰 𝘦 𝘰 𝘤𝘰𝘮𝘱𝘢𝘳𝘵𝘪𝘭𝘩𝘢𝘮𝘦𝘯𝘵𝘰 𝘥𝘦 𝘤𝘰𝘯𝘩𝘦𝘤𝘪𝘮𝘦𝘯𝘵𝘰.
 </p>
 
-<p align="center">
-Nossa trajetória nasceu da paixão por tecnologia e se consolidou em um compromisso com o ensino e a colaboração.<br>
-Hoje cursamos <b>Análise e Desenvolvimento de Sistemas</b> e <b>Ciência da Computação</b> na <b>Universidade Braz Cubas</b>, transformando ideias em projetos acadêmicos, pessoais e de empreendedorismo.
 </p>
 
 <p align="center">
@@ -47,7 +46,8 @@ Seja você educador, recrutador, estudante ou curioso, fique à vontade para exp
 
 <br>
 
-<img src="./assets/gif-slash.gif" width="100%" alt="継続は力なり · persistência é poder" />
+
+
 
 <!-- ───────────────────────── 02 · STACK ───────────────────────── -->
 
@@ -84,15 +84,9 @@ Seja você educador, recrutador, estudante ou curioso, fique à vontade para exp
 
 <!-- ───────────────────────── 03 · ATIVIDADE ───────────────────────── -->
 
-<img src="./assets/header-atividade.svg" width="100%" alt="Atividade" />
-
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Massarubash/Massarubash/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Massarubash/Massarubash/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/Massarubash/Massarubash/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
+<img src="./assets/banner-proverbios.svg" width="100%" alt="Provérbios japoneses: persistência é poder · caia sete vezes, levante oito · cada encontro é único" />
 
 </div>
 
@@ -193,7 +187,6 @@ Quer conhecer um pouquinho mais sobre a gente e nossas propostas?
 
 <img src="./assets/header-comunidade.svg" width="100%" alt="Comunidade" />
 
-<img src="./assets/gif-torii.gif" width="100%" alt="君は一人じゃない · Você nunca estará sozinho" />
 
 <p align="center">
 <a href="https://fluxer.gg/uHuHUyOJ"><img src="./assets/fluxer-banner.svg" width="100%" alt="Entre na nossa comunidade no Fluxer" /></a>
@@ -209,5 +202,8 @@ Acompanhe também no Instagram: <b>@guriz.mp4</b>
 </p>
 
 <br>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <img src="./assets/footer.svg" width="100%" alt="Aprenda. Construa. Compartilhe. © GurisDaTI Brazil Entertainment · All privacy and security rights reserved." />
+
+<img src="./assets/divider.svg" width="100%" alt="" />
