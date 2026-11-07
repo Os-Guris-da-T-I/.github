@@ -1,12 +1,10 @@
 <div align="center">
-
+  
+<img src="./assets/divider-torii.svg" width="100%" alt="" />
+  
 <img src="./assets/banner.svg" width="100%" alt="Guris da T.I · Tecnologia, educação e criação de conteúdo" />
 
 <img src="./assets/typing-main.svg" width="100%" alt="Opa bão? · Somos os Guris da T.I · Tecnologia, educação e criação de conteúdo · Co-fundadores do GennisCode · Ensinando T.I. de graça pro Brasil inteiro · Estudantes na Universidade Braz Cubas · Você nunca estará sozinho · Siga @guriz.mp4 no Instagram" />
-
-<img src="./assets/gif-sakura.gif" width="100%" alt="Aprenda. Construa. Compartilhe. 学ぶ・創る・分かち合う" />
-
-<img src="./assets/banner-proverbios.svg" width="100%" alt="Provérbios japoneses: persistência é poder · caia sete vezes, levante oito · cada encontro é único" />
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -45,7 +43,7 @@ Seja você educador, recrutador, estudante ou curioso, fique à vontade para exp
 
 <br>
 
-<img src="./assets/divider-torii.svg" width="100%" alt="" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <img src="./assets/banner-recrutadores.svg" width="100%" alt="Para recrutadores e estudantes: ficou interessado nos nossos projetos e quer conhecer o que fizemos no passado e o que estamos construindo? Nossos repositórios são públicos e permitidos para testes educacionais e técnicos." />
 
@@ -118,23 +116,11 @@ Seja você educador, recrutador, estudante ou curioso, fique à vontade para exp
 
 <br>
 
+<img src="./assets/divider-katana.svg" width="100%" alt="" />
+
 <img src="./assets/gif-rain.gif" width="100%" alt="Ensinando T.I. pro Brasil inteiro" />
 
 <!-- ───────────────────────── 03 · ATIVIDADE ───────────────────────── -->
-
-<img src="./assets/header-atividade.svg" width="100%" alt="Atividade" />
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Massarubash/Massarubash/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Massarubash/Massarubash/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/Massarubash/Massarubash/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
-
-</div>
-
-<br>
 
 <img src="./assets/divider-wave.svg" width="100%" alt="" />
 
@@ -227,7 +213,7 @@ Quer conhecer um pouquinho mais sobre a gente e nossas propostas?
 
 <img src="./assets/header-comunidade.svg" width="100%" alt="Comunidade" />
 
-<img src="./assets/gif-torii.gif" width="100%" alt="君は一人じゃない · Você nunca estará sozinho" />
+<img src="./assets/banner-proverbios.svg" width="100%" alt="Provérbios japoneses: persistência é poder · caia sete vezes, levante oito · cada encontro é único" />
 
 <p align="center">
 <a href="https://fluxer.gg/uHuHUyOJ"><img src="./assets/fluxer-banner.svg" width="100%" alt="Entre na nossa comunidade no Fluxer" /></a>
