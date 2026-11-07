@@ -6,10 +6,6 @@
 
 ### 👋 Opa, bão? Seja bem-vindo(a) ao perfil dos **Guris da T.I**.
 
-<a href="https://gennis-code-stg7.vercel.app/"><img src="https://img.shields.io/badge/GennisCode-projeto-ff1e1e?style=for-the-badge&labelColor=0b0b0c" alt="GennisCode" /></a>
-<a href="https://fluxer.gg/uHuHUyOJ"><img src="https://img.shields.io/badge/Comunidade-Fluxer-ff1e1e?style=for-the-badge&labelColor=0b0b0c" alt="Fluxer" /></a>
-<a href="https://instagram.com/guriz.mp4"><img src="https://img.shields.io/badge/Instagram-@guriz.mp4-ff1e1e?style=for-the-badge&labelColor=0b0b0c" alt="Instagram" /></a>
-
 <img src="assets/divisor-fita.svg" alt="" width="100%" />
 
 <img src="assets/sobre-banner.svg" alt="Quem somos" width="100%" />
@@ -174,6 +170,10 @@ Uma comunidade 100% brasileira e independente, focada em levar a tecnologia até
   <img src="https://skillicons.dev/icons?i=ps" height="59" alt="adobephotoshop logo" />
 </div>
 
+
+<a href="https://gennis-code-stg7.vercel.app/"><img src="https://img.shields.io/badge/GennisCode-projeto-ff1e1e?style=for-the-badge&labelColor=0b0b0c" alt="GennisCode" /></a>
+<a href="https://fluxer.gg/uHuHUyOJ"><img src="https://img.shields.io/badge/Comunidade-Fluxer-ff1e1e?style=for-the-badge&labelColor=0b0b0c" alt="Fluxer" /></a>
+<a href="https://instagram.com/guriz.mp4"><img src="https://img.shields.io/badge/Instagram-@guriz.mp4-ff1e1e?style=for-the-badge&labelColor=0b0b0c" alt="Instagram" /></a>
 <div align="center">
 <br>
 <img src="assets/divisor-spray.svg" alt="" width="100%" />
