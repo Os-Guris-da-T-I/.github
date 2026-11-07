@@ -2,7 +2,11 @@
 
 <img src="./assets/banner.svg" width="100%" alt="Guris da T.I · Tecnologia, educação e criação de conteúdo" />
 
-<img src="./assets/typing-main.svg" width="100%" alt="Opa bão? · Somos os Guris da T.I · Tecnologia, educação e criação de conteúdo · Co-fundadores do GennisCode · Ensinando T.I. de graça pro Brasil inteiro · Estudantes na Universidade Braz Cubas · Siga @guriz.mp4 no Instagram" />
+<img src="./assets/typing-main.svg" width="100%" alt="Opa bão? · Somos os Guris da T.I · Tecnologia, educação e criação de conteúdo · Co-fundadores do GennisCode · Ensinando T.I. de graça pro Brasil inteiro · Estudantes na Universidade Braz Cubas · Você nunca estará sozinho · Siga @guriz.mp4 no Instagram" />
+
+<img src="./assets/gif-sakura.gif" width="100%" alt="Aprenda. Construa. Compartilhe. 学ぶ・創る・分かち合う" />
+
+<img src="./assets/banner-proverbios.svg" width="100%" alt="Provérbios japoneses: persistência é poder · caia sete vezes, levante oito · cada encontro é único" />
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -33,13 +37,17 @@ Seja você educador, recrutador, estudante ou curioso, fique à vontade para exp
 
 <br>
 
-<img src="./assets/quote.svg" width="100%" alt="Lembre-se: beba água, melhor uma pedrada na cabeça do que no rim" />
+<img src="./assets/quote.svg" width="100%" alt="Lembre-se: Você nunca estará sozinho." />
+
+<br>
+
+<img src="./assets/banner-pilares.svg" width="100%" alt="Nossos pilares: aprender, construir e compartilhar" />
 
 </div>
 
 <br>
 
-<img src="./assets/divider-wave.svg" width="100%" alt="" />
+<img src="./assets/gif-slash.gif" width="100%" alt="継続は力なり · persistência é poder" />
 
 <!-- ───────────────────────── 02 · STACK ───────────────────────── -->
 
@@ -60,11 +68,11 @@ Seja você educador, recrutador, estudante ou curioso, fique à vontade para exp
 | Camada | Tecnologias |
 | :--- | :--- |
 | **Back-end** | NestJS · CodeIgniter · Meteor · JavaScript · Python |
-| **Front-end** | HTML5 · CSS3 · JavaScript · API|
+| **Front-end** | HTML5 · CSS3 · JavaScript |
 | **Banco de dados** | PostgreSQL |
 | **Games & 3D** | Unreal Engine · C++ · Blender |
 | **Design & Edição** | Photoshop |
-| **Infra & Ambiente** | Linux · Debian · Ubuntu · Apache · VS Code · COSMIC |
+| **Infra & Ambiente** | Linux · Debian · Ubuntu · Apache · VS Code |
 
 </details>
 
@@ -72,13 +80,19 @@ Seja você educador, recrutador, estudante ou curioso, fique à vontade para exp
 
 <br>
 
-<img src="./assets/divider-wave.svg" width="100%" alt="" />
+<img src="./assets/gif-rain.gif" width="100%" alt="Ensinando T.I. pro Brasil inteiro" />
 
 <!-- ───────────────────────── 03 · ATIVIDADE ───────────────────────── -->
 
 <img src="./assets/header-atividade.svg" width="100%" alt="Atividade" />
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Massarubash/Massarubash/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Massarubash/Massarubash/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/Massarubash/Massarubash/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
 
 </div>
 
@@ -138,11 +152,19 @@ Nossa missão é direta e sem pausas: levar educação tecnológica <b>gratuita 
 
 <br>
 
+<img src="./assets/banner-jornada.svg" width="100%" alt="Jornada do aluno: do zero, fundamentos, prática, projetos e certificado" />
+
+<br>
+
 <img src="./assets/platforms-banner.svg" width="100%" alt="O GennisCode é multiplataforma: Linux, Windows, macOS e Android" />
 
 <p align="center">
-Os ícones 3D acima representam as plataformas onde o GennisCode roda: <b>Linux, Windows, macOS e Android</b>. Aprenda no PC, no notebook ou no celular, sem barreira e sem custo.
+Os dispositivos 3D acima representam as plataformas onde o GennisCode roda: <b>Linux, Windows, macOS e Android</b>. Aprenda no PC, no notebook ou no celular, sem barreira e sem custo.
 </p>
+
+<br>
+
+<img src="./assets/banner-aberto.svg" width="100%" alt="Repositórios abertos para consulta e avaliação" />
 
 <br>
 
@@ -171,6 +193,8 @@ Quer conhecer um pouquinho mais sobre a gente e nossas propostas?
 
 <img src="./assets/header-comunidade.svg" width="100%" alt="Comunidade" />
 
+<img src="./assets/gif-torii.gif" width="100%" alt="君は一人じゃない · Você nunca estará sozinho" />
+
 <p align="center">
 <a href="https://fluxer.gg/uHuHUyOJ"><img src="./assets/fluxer-banner.svg" width="100%" alt="Entre na nossa comunidade no Fluxer" /></a>
 </p>
@@ -186,4 +210,4 @@ Acompanhe também no Instagram: <b>@guriz.mp4</b>
 
 <br>
 
-<img src="./assets/footer.svg" width="100%" alt="Aprenda. Construa. Compartilhe." />
+<img src="./assets/footer.svg" width="100%" alt="Aprenda. Construa. Compartilhe. © GurisDaTI Brazil Entertainment · All privacy and security rights reserved." />
