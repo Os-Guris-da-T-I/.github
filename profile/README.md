@@ -4,7 +4,7 @@
   
 <img src="./assets/banner.svg" width="100%" alt="Guris da T.I · Tecnologia, educação e criação de conteúdo" />
 
-<img src="./assets/typing-main.svg" width="100%" alt="Opa bão? · Somos os Guris da T.I · Tecnologia, educação e criação de conteúdo · Co-fundadores do GennisCode · Ensinando T.I. de graça pro Brasil inteiro · Estudantes na Universidade Braz Cubas · Você nunca estará sozinho · Siga @guriz.mp4 no Instagram" />
+<img src="./assets/typing-main.svg" width="100%" alt="Opa bão? · Somos os Guris da T.I · Tecnologia, educação e criação de conteúdo · Fundadores e Co-fundadores do GennisCode · Ensinando T.I. de graça pro Brasil inteiro · Estudantes na Universidade Braz Cubas · Siga @guriz.mp4 no Instagram" />
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -172,17 +172,16 @@
 <img src="./assets/sub-projeto.svg" width="100%" alt="Sobre o projeto" />
 
 <p align="center">
-Você deve estar se perguntando: <i>como um grupo de seis amigos, incluindo um japa "falsificado" e outros cinco entusiastas apaixonados por tecnologia, resolveu mudar o rumo da educação digital no Brasil?</i>
+࿔ 𝘝𝘰𝘤𝘦̂ 𝘥𝘦𝘷𝘦 𝘦𝘴𝘵𝘢𝘳 𝘴𝘦 𝘱𝘦𝘳𝘨𝘶𝘯𝘵𝘢𝘯𝘥𝘰: <i>𝘤𝘰𝘮𝘰 𝘶𝘮 𝘨𝘳𝘶𝘱𝘰 𝘥𝘦 𝘴𝘦𝘪𝘴 𝘢𝘮𝘪𝘨𝘰𝘴, 𝘪𝘯𝘤𝘭𝘶𝘪𝘯𝘥𝘰 𝘶𝘮 𝘫𝘢𝘱𝘢 𝘯𝘢̃𝘰 "𝘰𝘳𝘪𝘨𝘪𝘯𝘢𝘭" 𝘦 𝘰𝘶𝘵𝘳𝘰𝘴 𝘤𝘪𝘯𝘤𝘰 𝘦𝘯𝘵𝘶𝘴𝘪𝘢𝘴𝘵𝘢𝘴 𝘢𝘱𝘢𝘪𝘹𝘰𝘯𝘢𝘥𝘰𝘴 𝘱𝘰𝘳 𝘵𝘦𝘤𝘯𝘰𝘭𝘰𝘨𝘪𝘢, 𝘳𝘦𝘴𝘰𝘭𝘷𝘦𝘶 𝘮𝘶𝘥𝘢𝘳 𝘰 𝘳𝘶𝘮𝘰 𝘥𝘢 𝘦𝘥𝘶𝘤𝘢𝘤̧𝘢̃𝘰 𝘥𝘪𝘨𝘪𝘵𝘢𝘭 𝘯𝘰 𝘉𝘳𝘢𝘴𝘪𝘭?</i>
 </p>
 
-<p align="center"><b>A resposta é simples: inconformismo aliado a muita paixão.</b></p>
+<p align="center"><b>𝘈 𝘳𝘦𝘴𝘱𝘰𝘴𝘵𝘢 𝘦́ 𝘴𝘪𝘮𝘱𝘭𝘦𝘴: 𝘪𝘯𝘤𝘰𝘯𝘧𝘰𝘳𝘮𝘪𝘴𝘮𝘰 𝘢𝘭𝘪𝘢𝘥𝘰 𝘢 𝘮𝘶𝘪𝘵𝘢 𝘱𝘢𝘪𝘹𝘢̃𝘰.</b></p>
 
 <p align="center">
-Nascemos da vontade genuína de ajudar as pessoas. Cansados de ver o conhecimento em T.I. trancado a sete chaves por mensalidades abusivas e promessas falsas, decidimos fazer diferente. O GennisCode não é apenas um projeto: é um movimento. Somos a prova de que tecnologia de ponta, educação de qualidade e o sonho de construir uma carreira sólida não devem ser privilégios para poucos.
-</p>
-
-<p align="center">
-Nossa missão é direta e sem pausas: levar educação tecnológica <b>gratuita e acessível para o Brasil inteiro</b>, do zero absoluto até o mercado de trabalho, entregando certificação ao final da jornada. Aqui, qualquer pessoa, independentemente de onde veio ou de suas condições, pode dar o primeiro passo para transformar o próprio futuro.
+࿔ 𝘕𝘢𝘴𝘤𝘦𝘮𝘰𝘴 𝘥𝘢 𝘷𝘰𝘯𝘵𝘢𝘥𝘦 𝘨𝘦𝘯𝘶𝘪́𝘯𝘢 𝘥𝘦 𝘢𝘫𝘶𝘥𝘢𝘳 𝘢𝘴 𝘱𝘦𝘴𝘴𝘰𝘢𝘴. 𝘊𝘢𝘯𝘴𝘢𝘥𝘰𝘴 𝘥𝘦 𝘷𝘦𝘳 𝘰 𝘤𝘰𝘯𝘩𝘦𝘤𝘪𝘮𝘦𝘯𝘵𝘰 𝘦𝘮 𝘛.𝘐. 𝘵𝘳𝘢𝘯𝘤𝘢𝘥𝘰 𝘢 𝘴𝘦𝘵𝘦 𝘤𝘩𝘢𝘷𝘦𝘴 𝘱𝘰𝘳 𝘮𝘦𝘯𝘴𝘢𝘭𝘪𝘥𝘢𝘥𝘦𝘴 𝘢𝘣𝘶𝘴𝘪𝘷𝘢𝘴 𝘦 𝘱𝘳𝘰𝘮𝘦𝘴𝘴𝘢𝘴 𝘧𝘢𝘭𝘴𝘢𝘴, 𝘥𝘦𝘤𝘪𝘥𝘪𝘮𝘰𝘴 𝘧𝘢𝘻𝘦𝘳 𝘥𝘪𝘧𝘦𝘳𝘦𝘯𝘵𝘦. 𝘖 𝑮𝒆𝒏𝒏𝒊𝒔𝑪𝒐𝒅𝒆 𝘯𝘢̃𝘰 𝘦́ 𝘢𝘱𝘦𝘯𝘢𝘴 𝘶𝘮 𝘱𝘳𝘰𝘫𝘦𝘵𝘰: 𝘦́ 𝘶𝘮 𝘮𝘰𝘷𝘪𝘮𝘦𝘯𝘵𝘰. 𝘚𝘰𝘮𝘰𝘴 𝘢 𝘱𝘳𝘰𝘷𝘢 𝘥𝘦 𝘲𝘶𝘦 𝘵𝘦𝘤𝘯𝘰𝘭𝘰𝘨𝘪𝘢 𝘥𝘦 𝘱𝘰𝘯𝘵𝘢, 𝘦𝘥𝘶𝘤𝘢𝘤̧𝘢̃𝘰 𝘥𝘦 𝘲𝘶𝘢𝘭𝘪𝘥𝘢𝘥𝘦 𝘦 𝘰 𝘴𝘰𝘯𝘩𝘰 𝘥𝘦 𝘤𝘰𝘯𝘴𝘵𝘳𝘶𝘪𝘳 𝘶𝘮𝘢 𝘤𝘢𝘳𝘳𝘦𝘪𝘳𝘢 𝘴𝘰́𝘭𝘪𝘥𝘢 𝘯𝘢̃𝘰 𝘥𝘦𝘷𝘦𝘮 𝘴𝘦𝘳 𝘱𝘳𝘪𝘷𝘪𝘭𝘦́𝘨𝘪𝘰𝘴 𝘱𝘢𝘳𝘢 𝘱𝘰𝘶𝘤𝘰𝘴. </p>
+  
+<p align="center">  
+࿔ 𝘕𝘰𝘴𝘴𝘢 𝘮𝘪𝘴𝘴𝘢̃𝘰 𝘦́ 𝘥𝘪𝘳𝘦𝘵𝘢 𝘦 𝘴𝘦𝘮 𝘱𝘢𝘶𝘴𝘢𝘴: 𝒍𝒆𝒗𝒂𝒓 𝒆𝒅𝒖𝒄𝒂𝒄̧𝒂̃𝒐 𝒕𝒆𝒄𝒏𝒐𝒍𝒐́𝒈𝒊𝒄𝒂 𝒈𝒓𝒂𝒕𝒖𝒊𝒕𝒂 𝒆 𝒂𝒄𝒆𝒔𝒔𝒊́𝒗𝒆𝒍 𝒑𝒂𝒓𝒂 𝒐 𝑩𝒓𝒂𝒔𝒊𝒍 𝒊𝒏𝒕𝒆𝒊𝒓𝒐, do zero absoluto até o mercado de trabalho, entregando certificação ao final da jornada. Aqui, qualquer pessoa, independentemente de onde veio ou de suas condições, pode dar o primeiro passo para transformar o 𝒑𝒓𝒐́𝒑𝒓𝒊𝒐 𝒇𝒖𝒕𝒖𝒓𝒐.
 </p>
 
 <br>
@@ -193,16 +192,14 @@ Nossa missão é direta e sem pausas: levar educação tecnológica <b>gratuita 
 
 <img src="./assets/platforms-banner.svg" width="100%" alt="O GennisCode é multiplataforma: Linux, Windows, macOS e Android" />
 
-<p align="center">
-Os dispositivos 3D acima representam as plataformas onde o GennisCode roda: <b>Linux, Windows, macOS e Android</b>. Aprenda no PC, no notebook ou no celular, sem barreira e sem custo.
-</p>
-
 <br>
+
+<img src="./assets/team-line.svg" width="100%" alt="" />
 
 <img src="./assets/sub-familia.svg" width="100%" alt="Venha fazer parte da nossa família" />
 
 <p align="center">
-Quer conhecer um pouquinho mais sobre a gente e nossas propostas?
+𝘘𝘶𝘦𝘳 𝘤𝘰𝘯𝘩𝘦𝘤𝘦𝘳 𝘶𝘮 𝘱𝘰𝘶𝘲𝘶𝘪𝘯𝘩𝘰 𝘮𝘢𝘪𝘴 𝘴𝘰𝘣𝘳𝘦 𝘢 𝘨𝘦𝘯𝘵𝘦 𝘦 𝘯𝘰𝘴𝘴𝘢𝘴 𝘱𝘳𝘰𝘱𝘰𝘴𝘵𝘢𝘴?
 </p>
 
 <p align="center">
@@ -231,8 +228,13 @@ Quer conhecer um pouquinho mais sobre a gente e nossas propostas?
 </p>
 
 <p align="center">
-Nossa comunidade brasileira de T.I. vive no <b>Fluxer</b>: tire dúvidas, aprenda do zero e cresça junto com a gente.<br>
-Acompanhe também no Instagram: <b>@guriz.mp4</b>
+🌐︎ 𝘛𝘢𝘮𝘣𝘦́𝘮 𝘵𝘦𝘮𝘰𝘴 𝘯𝘰𝘴𝘴𝘢 𝘤𝘰𝘮𝘶𝘯𝘪𝘥𝘢𝘥𝘦 𝘥𝘪𝘨𝘪𝘵𝘢𝘭 𝘣𝘳𝘢𝘴𝘪𝘭𝘦𝘪𝘳𝘢 𝘥𝘦 𝘛.𝘐. 𝘏𝘰𝘫𝘦 𝘦𝘭𝘢 𝘦𝘴𝘵𝘢 𝘢𝘵𝘪𝘷𝘢 𝘯𝘰 <b>Fluxer Community</b>: 𝘵𝘪𝘳𝘦 𝘥𝘶́𝘷𝘪𝘥𝘢𝘴, 𝘢𝘱𝘳𝘦𝘯𝘥𝘢 𝘥𝘰 𝘻𝘦𝘳𝘰 𝘦 𝘤𝘳𝘦𝘴𝘤̧𝘢 𝘫𝘶𝘯𝘵𝘰 𝘤𝘰𝘮 𝘢 𝘨𝘦𝘯𝘵𝘦.<br>
+  
+ <p align="center"> ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ </p> 
+
+<p align="center">
+𝘈𝘤𝘰𝘮𝘱𝘢𝘯𝘩𝘦 𝘵𝘢𝘮𝘣𝘦́𝘮 𝘯𝘰 𝘐𝘯𝘴𝘵𝘢𝘨𝘳𝘢𝘮: <b>@guriz.mp4</b>
+
 </p>
 
 <p align="center">
