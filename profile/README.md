@@ -1,12 +1,11 @@
 <div align="center">
 
+<img src="./assets/divider-torii.svg" width="100%" alt="" />
+
 <img src="./assets/banner.svg" width="100%" alt="N ☰ X U S · Tecnologia, educação e criação de conteúdo" />
 
 <img src="./assets/typing-main.svg" width="100%" alt="Opa bão? · Somos a N ☰ X U S · Tecnologia, educação e criação de conteúdo · Co-fundadores do GennisCode · Ensinando T.I. de graça pro Brasil inteiro · Estudantes na Universidade Braz Cubas · Você nunca estará sozinho · Siga @nexus.bash no Instagram" />
 
-<img src="./assets/gif-sakura.gif" width="100%" alt="Aprenda. Construa. Compartilhe. 学ぶ・創る・分かち合う" />
-
-<img src="./assets/banner-proverbios.svg" width="100%" alt="Provérbios japoneses: persistência é poder · caia sete vezes, levante oito · cada encontro é único" />
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -38,6 +37,7 @@ Seja você educador, recrutador, estudante ou curioso, fique à vontade para exp
 <br>
 
 <img src="./assets/quote.svg" width="100%" alt="Lembre-se: Você nunca estará sozinho." />
+
 
 <br>
 
@@ -116,25 +116,10 @@ Seja você educador, recrutador, estudante ou curioso, fique à vontade para exp
 
 </div>
 
-<br>
-
-<img src="./assets/gif-rain.gif" width="100%" alt="Ensinando T.I. pro Brasil inteiro" />
-
-<!-- ───────────────────────── 03 · ATIVIDADE ───────────────────────── -->
-
-<img src="./assets/header-atividade.svg" width="100%" alt="Atividade" />
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Massarubash/Massarubash/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Massarubash/Massarubash/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/Massarubash/Massarubash/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
-
-</div>
+<img src="./assets/divider-katana.svg" width="100%" alt="" />
 
 <br>
+
 
 <img src="./assets/divider-wave.svg" width="100%" alt="" />
 
@@ -160,7 +145,7 @@ Seja você educador, recrutador, estudante ou curioso, fique à vontade para exp
 
 <br>
 
-<sub>▸ Pretendemos expandir a equipe no futuro. Toda ajuda é bem-vinda, de perto ou de longe. •ᴗ•</sub>
+<sub> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=C51717&width=435&lines=%E2%96%B8+Pretendemos+expandir+a+equipe+no+futuro+%E2%80%A2%E1%B4%97%E2%80%A2)](https://git.io/typing-svg) </sub>
 
 </div>
 
@@ -227,7 +212,6 @@ Quer conhecer um pouquinho mais sobre a gente e nossas propostas?
 
 <img src="./assets/header-comunidade.svg" width="100%" alt="Comunidade" />
 
-<img src="./assets/gif-torii.gif" width="100%" alt="君は一人じゃない · Você nunca estará sozinho" />
 
 <p align="center">
 <a href="https://fluxer.gg/uHuHUyOJ"><img src="./assets/fluxer-banner.svg" width="100%" alt="Entre na nossa comunidade no Fluxer" /></a>
