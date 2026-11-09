@@ -245,4 +245,3 @@ Acompanhe também no Instagram: <b>@nexus.bash</b>
 <br>
 
 <img src="./assets/footer.svg" width="100%" alt="Aprenda. Construa. Compartilhe. © N ☰ X U S Brazil Entertainment · All privacy and security rights reserved." />
-
