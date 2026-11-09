@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="./assets/divider-torii.svg" width="100%" alt="" />
-
-<img src="./assets/banner.svg" width="100%" alt="N ☰ X U S · Tecnologia, educação e criação de conteúdo" />
+<img src="./assets/banner.svg" width="100%" alt="N ☰ X U S · Tecnologia & Educação · Um grupo de amigos resolveu transformar o Brasil" />
 
 <img src="./assets/typing-main.svg" width="100%" alt="Opa bão? · Somos a N ☰ X U S · Tecnologia, educação e criação de conteúdo · Co-fundadores do GennisCode · Ensinando T.I. de graça pro Brasil inteiro · Estudantes na Universidade Braz Cubas · Você nunca estará sozinho · Siga @nexus.bash no Instagram" />
 
+<img src="./assets/gif-sakura.gif" width="100%" alt="Aprenda. Construa. Compartilhe. 学ぶ・創る・分かち合う" />
+
+<img src="./assets/banner-proverbios.svg" width="100%" alt="Provérbios japoneses: persistência é poder · caia sete vezes, levante oito · cada encontro é único" />
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -16,7 +17,7 @@
 <img src="./assets/header-sobre.svg" width="100%" alt="Sobre nós" />
 
 <p align="center">
-Somos a <b>N ☰ X U S</b>: um coletivo de amigos universitários que une tecnologia, educação e criação de conteúdo.<br>
+Somos a <b>N ☰ X U S</b>: um grupo de amigos universitários que une tecnologia, educação e criação de conteúdo na tentativa de ajudar milhões de brasileiros todos os dias.<br>
 Atuamos como <b>desenvolvedores, streamers, editores, designers e estudantes</b>, com anos de vivência na área de T.I e um objetivo em comum: contribuir de forma ativa para a evolução da tecnologia no Brasil.
 </p>
 
@@ -37,7 +38,6 @@ Seja você educador, recrutador, estudante ou curioso, fique à vontade para exp
 <br>
 
 <img src="./assets/quote.svg" width="100%" alt="Lembre-se: Você nunca estará sozinho." />
-
 
 <br>
 
@@ -116,10 +116,25 @@ Seja você educador, recrutador, estudante ou curioso, fique à vontade para exp
 
 </div>
 
-<img src="./assets/divider-katana.svg" width="100%" alt="" />
-
 <br>
 
+<img src="./assets/gif-rain.gif" width="100%" alt="Ensinando T.I. pro Brasil inteiro" />
+
+<!-- ───────────────────────── 03 · ATIVIDADE ───────────────────────── -->
+
+<img src="./assets/header-atividade.svg" width="100%" alt="Atividade" />
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Massarubash/Massarubash/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Massarubash/Massarubash/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/Massarubash/Massarubash/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
+
+</div>
+
+<br>
 
 <img src="./assets/divider-wave.svg" width="100%" alt="" />
 
@@ -145,7 +160,7 @@ Seja você educador, recrutador, estudante ou curioso, fique à vontade para exp
 
 <br>
 
-<sub> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=C51717&width=435&lines=%E2%96%B8+Pretendemos+expandir+a+equipe+no+futuro+%E2%80%A2%E1%B4%97%E2%80%A2)](https://git.io/typing-svg) </sub>
+<sub>▸ Pretendemos expandir a equipe no futuro. Toda ajuda é bem-vinda, de perto ou de longe. •ᴗ•</sub>
 
 </div>
 
@@ -212,6 +227,7 @@ Quer conhecer um pouquinho mais sobre a gente e nossas propostas?
 
 <img src="./assets/header-comunidade.svg" width="100%" alt="Comunidade" />
 
+<img src="./assets/gif-torii.gif" width="100%" alt="君は一人じゃない · Você nunca estará sozinho" />
 
 <p align="center">
 <a href="https://fluxer.gg/uHuHUyOJ"><img src="./assets/fluxer-banner.svg" width="100%" alt="Entre na nossa comunidade no Fluxer" /></a>
@@ -223,9 +239,11 @@ Acompanhe também no Instagram: <b>@nexus.bash</b>
 </p>
 
 <p align="center">
-<a href="https://www.instagram.com/nexus.bash/"><img src="./assets/cta-instagram.svg" width="100%" alt="Siga a N ☰ X U S nas redes sociais · @nexus.bash no Instagram" /></a>
+<a href="https://www.instagram.com/nexus.bash/"><img src="./assets/cta-instagram.svg" width="100%" alt="Siga a NEXUS nas redes sociais · @nexus.bash no Instagram" /></a>
 </p>
 
 <br>
 
 <img src="./assets/footer.svg" width="100%" alt="Aprenda. Construa. Compartilhe. © N ☰ X U S Brazil Entertainment · All privacy and security rights reserved." />
+
+
