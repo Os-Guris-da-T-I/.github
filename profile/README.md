@@ -1,12 +1,10 @@
 <div align="center">
+  
+<img src="./assets/divider-torii.svg" width="100%" alt="" />
 
 <img src="./assets/banner.svg" width="100%" alt="N ☰ X U S · Tecnologia & Educação · Um grupo de amigos resolveu transformar o Brasil" />
 
 <img src="./assets/typing-main.svg" width="100%" alt="Opa bão? · Somos a N ☰ X U S · Tecnologia, educação e criação de conteúdo · Co-fundadores do GennisCode · Ensinando T.I. de graça pro Brasil inteiro · Estudantes na Universidade Braz Cubas · Você nunca estará sozinho · Siga @nexus.bash no Instagram" />
-
-<img src="./assets/gif-sakura.gif" width="100%" alt="Aprenda. Construa. Compartilhe. 学ぶ・創る・分かち合う" />
-
-<img src="./assets/banner-proverbios.svg" width="100%" alt="Provérbios japoneses: persistência é poder · caia sete vezes, levante oito · cada encontro é único" />
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -116,29 +114,15 @@ Seja você educador, recrutador, estudante ou curioso, fique à vontade para exp
 
 </div>
 
-<br>
-
-<img src="./assets/gif-rain.gif" width="100%" alt="Ensinando T.I. pro Brasil inteiro" />
-
-<!-- ───────────────────────── 03 · ATIVIDADE ───────────────────────── -->
-
-<img src="./assets/header-atividade.svg" width="100%" alt="Atividade" />
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Massarubash/Massarubash/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Massarubash/Massarubash/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/Massarubash/Massarubash/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
-
-</div>
+<img src="./assets/divider-katana.svg" width="100%" alt="" />
 
 <br>
 
-<img src="./assets/divider-wave.svg" width="100%" alt="" />
 
 <!-- ───────────────────────── 04 · EQUIPE ───────────────────────── -->
+
+<img src="./assets/divider-sunrise.svg" width="100%" alt="" />
+
 
 <img src="./assets/header-equipe.svg" width="100%" alt="Equipe" />
 
@@ -154,7 +138,8 @@ Seja você educador, recrutador, estudante ou curioso, fique à vontade para exp
 <a href="https://github.com/Massarubash"><img src="./assets/member-gustavo.svg" width="19%" alt="Gustavo Gabriel F" /></a>
 <a href="https://github.com/lucasgracaleandro-arch"><img src="./assets/member-lucas-graca.svg" width="19%" alt="Lucas da Graça" /></a>
 
-<img src="./assets/team-line.svg" width="100%" alt="" />
+<img src="./assets/divider.svg" width="100%" alt="" />
+
 
 <a href="https://github.com/Luucasy"><img src="./assets/member-lucas-siqueira.svg" width="19%" alt="Lucas Siqueira" /></a>
 
@@ -194,6 +179,9 @@ Nossa missão é direta e sem pausas: levar educação tecnológica <b>gratuita 
 
 <br>
 
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+
 <img src="./assets/platforms-banner.svg" width="100%" alt="O GennisCode é multiplataforma: Linux, Windows, macOS e Android" />
 
 <p align="center">
@@ -227,7 +215,7 @@ Quer conhecer um pouquinho mais sobre a gente e nossas propostas?
 
 <img src="./assets/header-comunidade.svg" width="100%" alt="Comunidade" />
 
-<img src="./assets/gif-torii.gif" width="100%" alt="君は一人じゃない · Você nunca estará sozinho" />
+<img src="./assets/banner-proverbios.svg" width="100%" alt="Provérbios japoneses: persistência é poder · caia sete vezes, levante oito · cada encontro é único" />
 
 <p align="center">
 <a href="https://fluxer.gg/uHuHUyOJ"><img src="./assets/fluxer-banner.svg" width="100%" alt="Entre na nossa comunidade no Fluxer" /></a>
@@ -246,4 +234,8 @@ Acompanhe também no Instagram: <b>@nexus.bash</b>
 
 <img src="./assets/footer.svg" width="100%" alt="Aprenda. Construa. Compartilhe. © N ☰ X U S Brazil Entertainment · All privacy and security rights reserved." />
 
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=a0203a"  />
+</div>
 
+###
